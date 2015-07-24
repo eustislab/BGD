@@ -1,0 +1,14 @@
+PackratFormat: 1.4
+PackratVersion: 0.4.4
+RVersion: 3.2.1
+Repos: CRAN=https://cran.rstudio.com/
+
+Package: mclust
+Source: CRAN
+Version: 5.0.2
+Hash: 507e6796dcc0e8a99c1233223f41fc3c
+
+Package: packrat
+Source: CRAN
+Version: 0.4.4
+Hash: aed7d17407538df551a57caf6289c8bf
